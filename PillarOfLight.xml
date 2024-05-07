@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Pillar of Light</title>
+                <author>unknown</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Princeton University, Department of Special Collections</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Three pages from a Ge'ez codex of magical prayers and manual for the exorcism of demons.</p>
+                <physicalDesc>
+                    <objectDesc>
+                        <supportDesc>
+                            <support>
+                                <p>The manuscript is written on parchment which has yellowed with age, with darker discoloration and curling at the edges.</p>
+                            </support>
+                        </supportDesc>
+                        <layoutDesc>
+                            <layout n="2">Text is written in two columns per page.</layout>
+                        </layoutDesc>
+                    </objectDesc>
+                </physicalDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="textpart" subtype="column" xml:id="col1">
+                <p>ዝራዕ፡ቃሰ፡መጸሕፍቲከ፡ውሰተ፡ልበ፡ገብርከ፡እገሌ፡እሳት፡ብርሃን፡እሰት፡ብልዮን፡ነደ፡እሲት፡ፕንቲምን፡በዝንቱ፡እሰሚተት፡ተርኀወ፡ሰማያት፡ወወረደ፡መገፈከ፡ቅዱከ፡ለዕለ፡ሐዋርያት፡በጽር*፡ጽዮን፡ቅድስት፡ከማሁ፡አውርድ፡ጠለ፡ምሕረትከ፡ለገ፡እገ፡ለድ<add place="above">ር</add>ሱት፡ወለአንብበ፡መጸሕፍት፡ወለፈከሮ፡ዳዊት፡ወለመዝሙረ፡ማኀሌትያያሰ፡<num value="3">፫</num>ጊዜ፡ኢደያሰ፡<num value="4">፬</num>ፐዚ፡አለሶን፡ማለሸን፡<gap reason="parchment damage"/>ለሸን፡ኩሩሴኤል፡ም<gap reason="parchment damage"/> ኤል፡አጱከንኤል፡አርፐኤል፡ከበኤል፡ዐዝንቱ፡አሰማት፡ተርኀወ፡ሰማየ<gap reason ="faded text"/>ሑ፡ማያት፡<gap reason="parchment damage"/>ዐ፡<unclear>አፍል</unclear>ለልብ<gap reason="parchment damage"/>፡<unclear>ለገ</unclear>፡እገ፡<num value="1">፩</num>ስሙ፡ከት<gap reason="parchment damage"/>ሙ፡ዕቱ፡<num value="3">፫</num>ሰሙ፡
+                </p>
+            </div>
+            <div type="textpart" subtype="column" xml:id="col2">
+                <p>መንሁብ፡ከርርፎ<unclear>ንወ</unclear>ጊቤ።ሮፎሰ፡ሹ<gap reason="parchment discoloring"/>ር፡ሸተከል፡ሸባሕር፡<gap reason="parchment discoloring"/>ክለመልሸናም፡ሕልምሸገም፡ሸንቴውን፡ኢዝን፡ቤዝን፡በታር፡<unclear>ዘታ</unclear>ር፡ላደን፡ከሮን፡ዘሮን፡አብርህ፡ልብየ፡ከመጸጻለ፡ፀሒይ፡በኃይለ፡ዝንፑ፡አሰማቲከ፡ከሥት፡ቃለ፡መጸሕፍት፡ዘብሉይ፡ወዘሐዲሰ፡ለ<gap reason="faded text"/>በር፡በወይን፡ወበ<unclear>ጸቡየ</unclear>፡ዕጠን፡ወበቀና<unclear>ንምነ</unclear>፡ጸገ፡ወጸዓ፡<add place="above">ደ</add>ዓወ፡ወበ<num value="90">፺</num>በርበሬ፡ወበቄ<add place="above">ጽ</add>ለ፡ፍየለ፡ፈ<gap reason="faded text"/>ፈጂ፡ወበዕፀ፡ፋርከ፡ደሚረከ፡በጽዋዕ፡ዘኡለከፎ፡እከል፡ድማም፡<num value="7">፯</num>ዕሉተ፡ሰምሰለ፡ኀቡከ፡ቅዳሲ፡ኢትትፋለሰ፡<gap reason="faded text"/>ምቤትከ፡ወመልሀ<gap reason="faded text"/>፡ሸምብራ፡ዘእንበለ፡<gap reason="faded text"/>ው፡ምለ<unclear>ሸ፡ከ</unclear>ገዚ<gap reason="faded text"/></p>
+            </div>
+            <p>
+              <surface>
+                <zone xml:id="added_paper">White rectangular paper stamp with a blue decorative border pasted underneath the left column.</zone>
+                <add place="#added_paper" method="pasted">60. Gebit ጊዓምደ፡ብርሃን</add>
+              </surface>
+            <pb n="2"/>
+            </p>
+            <div type="textpart" subtype="column" xml:id="col3">
+                <p><add place="above">ምለሹ ተምሐረተ ኅቡ</add>እምሮ፡ወኅዳፌ፡ነፍ፡ሰ፡ዘእግዚእነ፡እስከ፡ኀበ፡ይብል፡ልበ፡ንጹሐ፡<hi rend="dotted underline">ፍፕር፡ለነ። ። ።</hi>ጰለሊም፡ጰለምን፡ለዲም፡መራን፡ርእሰ፡አእምሮ፡ሲም፡ውሰተ፡ሕሊናየ፡ምሰለ፡ሰሰፎጠር፡አግናጠር፡አል<add place="above">ያ</add>ጠር፡ቅርማሬቅ፡ሳዶር፡አለዶር፡እሉ፡እሙንቱ፡ኀቡአተ፡ነዖር፡ይሬስዩኒ፡በማኀለተ፡መንፈስ፡ስኩር፡ዘያፈልሆ፡ለማይ፡ዘያጐደጕዶ፡ለመብረቅ፡ከማዑ፡ያጐድጕድ፡ወይሩጽ፡ወከማዑ፡ይትነሣዕ፡መዝገበ፡ድርስ<add place="above">ና</add>ት፡ለገ፡እ፡በሎሚ፡<hi rend="dotted underline">ወዛጐ፡ድግም</hi>፡<num value="7">፯</num>አንዮሰ፡እዖንዮስ፡አኑፋንዮሰ፡ቂቡዱዑላን።አኡዱሩሁማን፡አአዶ
+                </p>
+            </div>
+            <div type="textpart" subtype="column" xml:id="col4">
+                <p><hi rend="dotted underline">ም፡መትልው፡ለኵሉ</hi>፡<hi rend="color(red)">ህለዊ፡መለከት፡ዘአብ፡ወ</hi>ወልድ፡ወመንፈስ፡ቅዱ<hi rend="color(red)">ስ፡ዐአምሰከ።ሃሌ፡ሉያ፡ሃ</hi>ሌ፡ሉያ፡ሃሌ፡ሉያ፡ሀሁሂሃሄህሆ፡ሃይማኖት፡ወንጽሐ፡ዘይፈረ፡ወይትፌኖ፡ውስተ፡አልባቤሆሙ፡ለማሃይምናን፡ቅዱሳን፡እግአብሔር፡ሃሌ፡ሉያ፡ሃሌ፡ሉያ፡ሃሌ፡ሉያ፡ለሉ፡ለሕየ፡ፀዳሉ፡ወገጹ፡መፍርሕ፡ወመርዕድ፡ወመደንግፅ፡እግዚአብሔር፡ሃሌ፡ሃ፡ሃሐሑ፡ሐዋዝ፡ባሕረ፡ምሕረት፡ዘኢይቀብልእግዚአብሔር።ሃሌ፡ሉያ፡ሃ፡ሃ፡መሙ፡ማውታ፡<num value="3">፫</num>ማዕምረ፡ልብ፡ዘህቡእ፡ወዘገሃድ፡እግዚአብሔር፡ሃ፡ሃ፡ሃሠሡ፡ማህለ፡ምሕረት፡ይወርድ፡ከመ፡
+                <pb n="5"/>
+                </p>
+            </div>
+            <div type="textpart" subtype="column" xml:id="col5">
+                <p>ነፍሰ፡ምንፈስ፡አጾናይ፡ኤሎሄ፡ዘይሴባሕ፡በአፈ፡ትጉሃን፡እማዚአብሔር፡ሃ፡ሃ፡ሃ፡ጐጒ፡ጐሥዓ፡ልብየ፡ለስምከ፡ሕያው፡ምእልሚልሜዶር፡<num value="3">፫</num>መንቆብያቱር፡<num value="3">፫</num>ዶር፡<num value="3">፫</num>አለዶር፡<num value="3">፫</num>ዋዌ፡<num value="3">፫</num>ካፍ፡<num value="3">፫</num>አልፍናጾር፡<num value="3">፫</num>ያዮልያድል፡<num value="3">፫</num>ዘከሥታ፡ለአይነ፡ባሕር፡ክሥትልብየ፡ወአፉየ፡ወከናፍርየ፡በኪነ፡ፕበብከ፡ከመ፡እሰብሕ፡አከቴተከ፡ወስብሐቲከ፡አነ፡ገብርከ፡እ፡ሃ፡ሃ፡ሃ፡ቈቊ፡ዘይት፡ኌሰቊ፡አስማተ፡በሕር፡ወነጠብጠበ፡ዝናም፡ወያምጽእ፡እንተ፡ድኀር፡ነሐውር፡በብርሃን፡ወበሰለም፡ቀምሐነሸን፡እግዚአብሔር፡ለሰሎሞን፡ግዮን፡<num value="10">፲</num>ኤፌሶን፡<num value="10">፲</num>ጤግሮስ፡<num value="10">፲</num>ኤፍራ
+                </p>
+            </div>
+            <div type="textpart" subtype="column" xml:id="col6">
+                <p>ጠሰ፡<num value="10">፲</num>ሣህልናኤል፡<num value="10">፲</num>ኀብትናኤል፡<num value="3">፫</num>ዳትናኤል፡<num value="3">፫</num>ዘይከሥት፡ምሥጢረኀቡአት፡ከማሁ፡ክሥት፡ሊተኵሎ፡ስውራተ፡ዘየዐፅብ፡ወዘይስአን፡ለገ፡እ፡ሃ፡ሃ፡ሃ፡ኈኍ፡እትናኤል፡<num value="3">፫</num>ቍራም፡<num value="3">፫</num>ካፍ፡<num value="3">፫</num>፡ኩና፡<num value="3">፫</num>ሐጰንጅል፡<num value="3">፫</num>ዋዌ፡እልፍናዶር፡<num value="3">፫</num>አሕያ፡ሸራሕያ፡ዘሴባሕ፡በየማነ፡ባሕር፡ረስየኒ፡እሰብሕከ፡በኵሉ፡መዋዕለ፡ሕይወትየ፡አግዚአብሔር፡ሃ፡ሃ፡ሃ፡ወምሥጢረ፡ነገረ፡ውከተ፡ልበ፡ሰብእ፡ኀዱረ፡ጊዜ፡ለገቢር፡እግዚአብሔር፡ሃ፡ሃ፡ሃ፡ሕያውእግዚአብሔር፡<num value="3">፫</num>ሕያው፡ስምከ፡ፌ፡መንክር፡ስምእከ፡በእንተዝ፡ኀሠሠቶ፡ነፍስየ፡ነገረ፡ቃልከ፡ያበርህ፡ወያጠብብ፡ሕፆናተ፡አፉየ፡ከሠት
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
